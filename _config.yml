@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Rob McQueen
 logo: /portrait.jpg
+
 github:
   is_project_page: false
