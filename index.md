@@ -2,7 +2,7 @@
 
 Thanks for stopping by. My name is Rob McQueen. I am currently a Masters student in Boston College's Philosophy Department. My main interests include Metaphysics, Phenomenology, and the History of Philosophy. 
 
-Looking for a CV? [Look no farther](https://drive.google.com/file/d/1sYxtDYy54cPWsh51CWn6ysyBgTWtiZio/view?usp=sharing)
+Looking for a CV? [Look no farther](https://drive.google.com/file/d/1sYxtDYy54cPWsh51CWn6ysyBgTWtiZio/view?usp=sharing){:target="_blank"}
 
 ## Projects
 
