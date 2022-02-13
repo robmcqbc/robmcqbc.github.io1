@@ -1,13 +1,23 @@
-## Research Interests
+## Hello there!
 
-Metaphysics, Phenomenology, Political Theory
+Thanks for stopping by. My name is Rob McQueen. I am currently a Masters student in Boston College's Philosophy Department. My main interests include Metaphysics, Phenomenology, and the History of Philosophy. 
 
-## Education
+## Projects
+
+### Hannah Arendt Index (https://arendtindex.com)
+
+I have built a Search Engine for Hannah Arendt's Archive in the Library of Congress.
+
+### Current Papers
+
+- [Augustine and the Death of the Soul in Confessions](https://drive.google.com/file/d/1rwC8MkV7_sYWp5oVVZDZk2p13TE8BIcS/view?usp=sharing)
+- Henry of Ghent, Scotus, and the Univocity of Being
+- The There of Dasein Spatiality and Attunement
 
 - **Boston College, MA Philosophy** _2021-present_
 - **Massachusetts Institute of Technology, BS Computer Science** _2008-2012_
 
-## Publications
+## Papers
 
 - Publication One
 - Publication Two
@@ -16,8 +26,3 @@ Metaphysics, Phenomenology, Political Theory
 
 - Talk 1
 - Talk 2
-
-## Work Experience
-
-* **Segment, Senior Software Engineer** _2018-2020_
-* **Twitter, Site Reliability Engineer** _2014-2015_
